@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Vivek Jutture
+Copyright (c) 2026 Vivek J. Utture
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,38 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Summary
-
-This license permits you to:
-
-- ✅ Use the software for any purpose
-- ✅ Modify the software
-- ✅ Distribute the software
-- ✅ Use the software privately
-- ✅ Use the software commercially
-- ✅ Use the software in sublicenses
-
-With the following conditions:
-
-- ⚠️ Include a copy of this license and the copyright notice
-- ⚠️ Include a notice of changes if you modify the software
-
-And these limitations:
-
-- ❌ No liability - the software is provided "as is"
-- ❌ No warranty - no warranty of any kind is provided
-
-## More Information
-
-For more details about the MIT License, visit:
-<https://opensource.org/licenses/MIT>
-<https://choosealicense.com/licenses/mit/>
-
-## Questions?
-
-If you have questions about how you can use this software, please open an issue
-on the GitHub repository:
-<https://github.com/vivekjutture/Random-Password-Generator/issues>

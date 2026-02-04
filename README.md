@@ -123,7 +123,7 @@ useEffect(
 
 ## 📁 Project Structure
 
-```
+```bash
 Random-Password-Generator/
 ├── src/
 │   ├── App.jsx           # Main component with password logic

@@ -1,4 +1,4 @@
-MIT License
+# MIT License
 
 Copyright (c) 2026 Vivek Jutture
 
@@ -46,11 +46,11 @@ And these limitations:
 ## More Information
 
 For more details about the MIT License, visit:
-https://opensource.org/licenses/MIT
-https://choosealicense.com/licenses/mit/
+<https://opensource.org/licenses/MIT>
+<https://choosealicense.com/licenses/mit/>
 
 ## Questions?
 
 If you have questions about how you can use this software, please open an issue
 on the GitHub repository:
-https://github.com/vivekjutture/Random-Password-Generator/issues
+<https://github.com/vivekjutture/Random-Password-Generator/issues>

@@ -13,7 +13,7 @@ A lightweight, responsive password generator that prioritizes security, performa
 
 ## 🚀 Live Demo
 
-**Try it now:** https://vivekjutture.github.io/Random-Password-Generator
+**Try it now:** <https://vivekjutture.github.io/Random-Password-Generator>
 
 ## ✨ Key Features
 
